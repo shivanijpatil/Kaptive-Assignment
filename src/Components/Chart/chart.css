@@ -1,0 +1,33 @@
+/* .chart-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .chart-box {
+    width: 90%;
+    height: 90%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  } */
+  .Chart_data{
+ width: 70vw; 
+ margin-left: 15vw;
+ margin-bottom: 15vh;
+ margin-top: 15vh;
+ height: 50vh;
+ font-size: large;
+ font-weight: 600;
+ color: #090b0e;
+ position: top;
+ margin-top: 15vh;
+
+}
+canvas{
+  width:70vw !important;
+  height:70vh !important;
+  border: #090b0e !important;
+  background-color: whitesmoke !important;
+}
+
